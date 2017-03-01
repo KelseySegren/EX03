@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex03_05\ex03_05\myinteger.h(83): error C3867: 'MyInteger::isEven': non-standard syntax; use '&' to create a pointer to member
+c:\users\kelsey\documents\school assignments\cs2\ex03_05\ex03_05\myinteger.h(83): error C2298: missing call to bound pointer to member function
